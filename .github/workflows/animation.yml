@@ -17,6 +17,8 @@ on:
 
 jobs:
   generate:
+    environment: 
+      name: production
     permissions: 
       contents: write
     runs-on: ubuntu-latest
