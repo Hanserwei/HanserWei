@@ -26,6 +26,11 @@ Vue，React**
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [面试──java基础题](https://likeyy.love/archives/javaji-chu-ti)
+- [初始RabbitMQ](https://likeyy.love/archives/chu-shi-rabbitmq)
+- [Redis相关shell脚本](https://likeyy.love/archives/redisxiang-guan-shelljiao-ben)
+- [使用Orval自动生成前端接口文件](https://likeyy.love/archives/shi-yong-orvalzi-dong-sheng-cheng-qian-duan-jie-kou-wen-jian)
+- [Reactive-Stream知识](https://likeyy.love/archives/reactive-streamzhi-shi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
