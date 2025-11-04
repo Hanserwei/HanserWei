@@ -122,7 +122,7 @@
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hanserwei&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Hanserwei&theme=dark" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hanserwei&theme=dark" alt="GitHub Streak" /></a>
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanserwei&show_icons=true&locale=cn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
