@@ -4,7 +4,7 @@
   
 ### 🚀 热爱技术的 Java 开发者
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hanserwei&theme=gruvbox&no-frame=true&row=1&column=7" alt="Hanserwei" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hanserwei-profile-trophy.vercel.app/?username=Hanserwei&theme=gruvbox&no-frame=true&row=1&column=7" alt="Hanserwei" /></a></p>
 
 </div>
 
